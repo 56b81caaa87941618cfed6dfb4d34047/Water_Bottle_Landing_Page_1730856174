@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           {/* FOOTER COPY */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h3 className="text-xl font-bold mb-2">AquaFlow</h3>
-            <p className="text-gray-400">© 2023 AquaFlow. Stay refreshed, stay sustainable.</p>
+            <p className="text-gray-400">© 2023 Testing. Stay refreshed, stay sustainable.</p>
           </div>
 
           {/* SOCIALS */}
